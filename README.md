@@ -20,6 +20,11 @@ pdf_to_images(input_path="input.pdf", output_path="D:\\Dev\\Python\\ConverterToo
 # All function will return True if convert/compress successfull otherwise False.
 ```
 
+Make sure to install aspose-pdf version: 24.6.0 
+```
+pip install aspose-pdf==24.6.0
+```
+
 ###
 
 <h2 align="left">Support</h2>
