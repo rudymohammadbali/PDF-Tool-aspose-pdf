@@ -1,4 +1,4 @@
-# PDF-Tool
+# PDF-Tool-aspose-pdf
 Compress and convert PDF files to various other file formats using Aspose.PDF library.
 
 Note: you have to purchase a valid licence from aspose.com!
